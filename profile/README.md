@@ -11,14 +11,14 @@
 <p align="center">
   <a href="https://mixdive.com/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=header">Website</a> ·
   <a href="https://docs.mixdive.com/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=header">Documentation</a> ·
-  <a href="https://demo1.mixdive.com/">Live demo</a> ·
+  <a href="https://docs.mixdive.com/start/demo/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=header">Live demos</a> ·
   <a href="https://hub.docker.com/r/mixdive/mixdive">Docker Hub</a> ·
   <a href="https://github.com/orgs/mixdive/projects/1">Roadmap</a>
 </p>
 
 [![The Mixdive console: the events list, with every event a product sends, its counts and its unique users](https://mixdive.com/assets/video/hero-console-poster.webp)](https://mixdive.com/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=hero)
 
-<p align="center"><i>The console, running on your own server. <a href="https://demo1.mixdive.com/">Open the live demo</a> and click through it.</i></p>
+<p align="center"><i>The console, running on your own server. <a href="https://demo-ecommerce.mixdive.com/">Open the online store demo</a> and click through it.</i></p>
 
 ## Insight or ownership? You shouldn't have to choose
 
@@ -27,9 +27,9 @@ somebody else's servers, or work blind. Mixdive is the third answer: the same
 reports, on a machine you control.
 
 **Your usage data never leaves your infrastructure.** No vendor keeps a copy of
-who your users are or what they did. Teams in regulated industries, EU public
-sector work, and anyone whose data simply cannot go to a third party tend to
-arrive for exactly this reason.
+who your users are or what they did. Teams in regulated industries, and anyone
+whose data simply cannot go to a third party, tend to arrive for exactly this
+reason.
 
 **Nothing to define first.** Send an event and its report screen exists.
 Properties register themselves the first time they show up, so a new field
@@ -53,9 +53,11 @@ That brings up Mixdive, a MongoDB with a persistent volume, and a proxy in
 front of both. Open `http://localhost:8080` and a one-time wizard asks for a
 project name, the address your apps will use, and an owner account.
 
-Prefer to look before you install? The
-[live demo](https://demo1.mixdive.com/) is a full Mixdive filled with a
-fictional shop's data, with no sign-up.
+Prefer to look before you install? Three demos run with made-up companies'
+data in them, no sign-up needed:
+[an online store](https://demo-ecommerce.mixdive.com/),
+[a bank](https://demo-banking.mixdive.com/) and
+[a software company](https://demo-saas.mixdive.com/).
 
 Start here:
 [Quick start](https://docs.mixdive.com/start/quick-start/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=quickstart)
@@ -88,8 +90,8 @@ moves up the list.
 | [mixdive-feedback-go](https://github.com/mixdive/mixdive-feedback-go) | The Feedback Portal's Go SDK, for signing your users into the portal. |
 
 The SDKs and the tag template are Apache-2.0. The Feedback Portal is MIT. The
-Mixdive server itself is a commercial product, free throughout the beta, and
-its image is public on
+Mixdive server itself is a commercial product, free to run on your own
+servers, and its image is public on
 [Docker Hub](https://hub.docker.com/r/mixdive/mixdive).
 
 ## Follow along
@@ -102,9 +104,8 @@ comes off.
 - [Email updates](https://buttondown.com/mixdive) when something ships
 - [@mixdive on X](https://x.com/mixdive) · [LinkedIn](https://www.linkedin.com/company/mixdive)
 
-Running a real product with data that cannot go to a third party? The beta is a
-small group of teams whose requirements shape what gets built. A few lines to
-beta@mixdive.com is enough, and a person answers.
+Running a real product with data that cannot go to a third party? A few lines
+to hello@mixdive.com is enough, and a person answers.
 
 ---
 
