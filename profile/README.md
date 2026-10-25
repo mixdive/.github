@@ -72,6 +72,8 @@ Start here:
 |---|---|
 | [**Web tag**](https://docs.mixdive.com/integrations/web-tag/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=integrations) | One line on your site. Visitors, sessions and page views count themselves. |
 | [**React**](https://docs.mixdive.com/integrations/react/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=integrations) | A provider, a hook, router-driven page views. |
+| [**Next.js**](https://docs.mixdive.com/integrations/nextjs/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=integrations) | One line in the root layout, plus events from Server Actions and Route Handlers. |
+| [**Node.js**](https://docs.mixdive.com/integrations/node/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=integrations) | Events, profiles and records from JavaScript servers and edge functions. |
 | [**Go SDK**](https://docs.mixdive.com/integrations/go-sdk/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=integrations) | Fire-and-forget tracking from your backend. |
 | [**Google Tag Manager**](https://docs.mixdive.com/integrations/google-tag-manager/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=integrations) | A gallery template, no code deploy. |
 | [**HTTP API**](https://docs.mixdive.com/integrations/http-api/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=integrations) | Anything that can POST JSON. |
@@ -83,7 +85,7 @@ moves up the list.
 
 | Repository | What it is |
 |---|---|
-| [mixdive-js](https://github.com/mixdive/mixdive-js) | The JavaScript SDKs: [`@mixdive/browser`](https://www.npmjs.com/package/@mixdive/browser) for any website and [`@mixdive/react`](https://www.npmjs.com/package/@mixdive/react) for React apps. |
+| [mixdive-js](https://github.com/mixdive/mixdive-js) | The JavaScript SDKs: [`@mixdive/browser`](https://www.npmjs.com/package/@mixdive/browser) for any website, [`@mixdive/react`](https://www.npmjs.com/package/@mixdive/react) for React apps, [`@mixdive/next`](https://www.npmjs.com/package/@mixdive/next) for Next.js and [`@mixdive/node`](https://www.npmjs.com/package/@mixdive/node) for servers. |
 | [mixdive-go](https://github.com/mixdive/mixdive-go) | The Go SDK. Fire-and-forget, zero dependencies. |
 | [mixdive-gtm](https://github.com/mixdive/mixdive-gtm) | The Google Tag Manager tag template. |
 | [feedback-platform](https://github.com/mixdive/feedback-platform) | The Feedback Portal: open-source, self-hosted feedback with voting and a changelog. |
